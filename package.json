@@ -11,7 +11,7 @@
     "signalk-node-server-plugin"
   ],
   "author": "Fabian Tollenaar <fabian@decipher.industries>",
-  "license": "ISC",
+  "license": "GPL",
   "devDependencies": {
     "@types/node": "^12.12.17",
     "typescript": "^3.7.3"
