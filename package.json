@@ -1,7 +1,7 @@
 {
-  "name": "navico-broadcast",
+  "name": "mfd-broadcaster",
   "version": "1.0.0",
-  "description": "Signal K Node.js server plugin that broadcasts a UDP frame which causes Navico MFDs to display an icon and start a browser which loads a user-defined IP address",
+  "description": "Signal K Node.js server plugin that broadcasts a UDP frame which causes certain MFDs to display an icon and start a browser which loads a user-defined IP address",
   "main": "index.js",
   "scripts": {
     "build": "tsc",

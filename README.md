@@ -1,11 +1,11 @@
-# Navico MFD broadcaster\n
+MFD broadcaster
 
-> Signal K Node.js server plugin that broadcasts a UDP frame which causes Navico MFDs to display an icon and start a browser which loads a user-defined IP address
+> Signal K Node.js server plugin that broadcasts a UDP frame which causes certain MFDs to display an icon and start a browser which loads a user-defined IP address
 
 
 ## Disclaimer
 
-Navico, B&G, Simrad, Lowrance and any other brand names are the sole property of their respective owners. This software has been constructed entirely by observing public, non-encrypted traffic on a public, open network. The author of and contributors to this plugin have no affiliation whatsoever with any of these brands. As such, the software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, wether in action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+Any brand names mentioned in this software are the sole property of their respective owners. This software has been constructed entirely by observing public, non-encrypted traffic on a public, open network. The author of and contributors to this plugin have no affiliation whatsoever with any of these brands. As such, the software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, wether in action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 ## License
 
