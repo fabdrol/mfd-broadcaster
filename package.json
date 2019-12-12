@@ -1,0 +1,19 @@
+{
+  "name": "navico-broadcast",
+  "version": "1.0.0",
+  "description": "Signal K Node.js server plugin that broadcasts a UDP frame which causes Navico MFDs to display an icon and start a browser which loads a user-defined IP address",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run build && node test.js"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Fabian Tollenaar <fabian@decipher.industries>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.17",
+    "typescript": "^3.7.3"
+  }
+}
